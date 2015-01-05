@@ -112,9 +112,9 @@
    <text xml:lang="eng">
       <body>
          <div type="text">
-            <pb facs="tcp:031851_0000_0FEF21234C4A0EA0"/>
+            <pb facs="unknown:031851_0000_0FEF21234C4A0EA0"/>
             <pb n="1"
-                facs="tcp:031851_0001_0FEF212010474C20"
+                facs="unknown:031851_0001_0FEF212010474C20"
                 rendition="simple:additions"/>
             <head>INSTITUTION OF THE Boſton Diſpenſary.</head>
             <p>IT having been found by experience, both in Europe and in ſeveral of the capital towns in America, that Diſpenſaries for the medical relief of the Poor are the moſt uſeful among benevolent Inſtitutions, a number of Gentlemen propoſe to eſtabliſh a public Diſpenſary in the Town of Boſton, for the relief of the ſick poor, which they pre<g ref="char:EOLhyphen"/>ſume will embrace the following advantages.</p>
@@ -122,13 +122,13 @@
             <p>Secondly, The ſick can, in this way, be aſſiſted at a leſs expence to the public than in an hoſpital.</p>
             <p>Thirdly, Thoſe who have ſeen better days may be comforted without being humili<g ref="char:EOLhyphen"/>ated: And all the poor receive the bene<g ref="char:EOLhyphen"/>fits of a charity the more refined, as it is the more ſecret.</p>
             <p>
-               <pb n="2" facs="tcp:031851_0002_0FEF212A0AE907A0"/>For the promotion of the deſign, the fol<g ref="char:EOLhyphen"/>lowing Regulations are eſtabliſhed by the Sub<g ref="char:EOLhyphen"/>ſcribers to this Charity, as—</p>
+               <pb n="2" facs="unknown:031851_0002_0FEF212A0AE907A0"/>For the promotion of the deſign, the fol<g ref="char:EOLhyphen"/>lowing Regulations are eſtabliſhed by the Sub<g ref="char:EOLhyphen"/>ſcribers to this Charity, as—</p>
             <div type="rule">
                <head>RULES OF THE BOSTON DISPENSARY FOR THE MEDICAL RELIEF OF THE POOR.</head>
                <p n="1">I. Each Lady or Gentleman who pays annu<g ref="char:EOLhyphen"/>ally into the hands of the Treaſurer <hi>Five Dollars,</hi> ſhall be intitled to the privilege of having two patients at one time under the care of the Diſpenſary.—Thoſe who annually pay <hi>Ten Dollars</hi> ſhall have four and ſo on, in the ſame proportion: And thoſe who ſubſcribe <hi>Fifty Dollars,</hi> ſhall be intitled during life, to the privilege of having four patients attended at one time by the phyſicians of the Diſpenſary.</p>
                <p n="2">II. A Board, conſiſting of twelve Managers and a Treaſurer, ſhall be annually elected on the ſecond Thurſday of January, by a majority of the Contributors preſent at ſuch meeting, and votes may at all elections be given either in perſon or by proxy. Three Managers ſhall conſtitute a quorum. Their buſineſs ſhall be to pro<g ref="char:EOLhyphen"/>vide medicines for the ſick, and to regu<g ref="char:EOLhyphen"/>late all affairs relative to the Inſtitution.</p>
                <p n="3">
-                  <pb n="3" facs="tcp:031851_0003_0FEF212B8DD08F60"/>III. Three attending and two conſulting phy<g ref="char:EOLhyphen"/>ſicians and ſurgeons and an apothe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <pb n="3" facs="unknown:031851_0003_0FEF212B8DD08F60"/>III. Three attending and two conſulting phy<g ref="char:EOLhyphen"/>ſicians and ſurgeons and an apothe<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>ary of the Diſpenſary, ſhall be annually elect<g ref="char:EOLhyphen"/>ed by the Managers of the inſtitution.</p>
                <p n="4">IV. Every caſe ſhall be duly at<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -147,7 +147,7 @@
                   </closer>
                </div>
                <div type="form">
-                  <pb n="4" facs="tcp:031851_0004_0FEF2132278F1EF8"/>
+                  <pb n="4" facs="unknown:031851_0004_0FEF2132278F1EF8"/>
                   <head>Form of a Recommendation of a Patient, to the care of the <hi>DISPENSARY,</hi> and Rules to be obſerved by the Patients.</head>
                   <head type="sub">To the <hi>PHYSICIAN</hi> of the <hi>BOSTON DISPENSARY.</hi>
                   </head>
@@ -177,7 +177,7 @@
                <p n="3">3. No perſons will be deemed objects of this charity, but ſuch as are really neceſſitous.</p>
                <p n="4">4. All ſuch patients who, in the judgment of the Phyſician, are well enough to go abroad, and neglect to attend at the Diſ<g ref="char:EOLhyphen"/>penſary, for ten days, ſhall be diſcharged, as diſorderly, from the care and benefit of the inſtitution.</p>
                <p n="5">
-                  <pb n="5" facs="tcp:031851_0005_0FEF20FEFB0A4DB8"/>5. All the vials muſt be returned to the Apo<g ref="char:EOLhyphen"/>thecary; any patients who neglect to re<g ref="char:EOLhyphen"/>turn them, ſhall be deprived of the benefits of the Diſpenſary.</p>
+                  <pb n="5" facs="unknown:031851_0005_0FEF20FEFB0A4DB8"/>5. All the vials muſt be returned to the Apo<g ref="char:EOLhyphen"/>thecary; any patients who neglect to re<g ref="char:EOLhyphen"/>turn them, ſhall be deprived of the benefits of the Diſpenſary.</p>
                <p n="6">6. Every patient muſt deliver in their letter of recommendation at the Diſpenſary and, when cured, take a regular diſcharge to the contributor who recommended them, or they muſt not expect to be again re<g ref="char:EOLhyphen"/>ceived.</p>
                <div type="form">
                   <head>Form of a Diſcharge.</head>
@@ -201,7 +201,7 @@
                </head>
                <p>
                   <hi>Firſt.</hi> THE Phyſician ſhall attend all ſuch patients regularly recommended, as are under confinement, and chooſe the Phyſician of the Diſpenſary, at leaſt once a day, if neceſſary, and ſhall alſo call at the Diſpenſary every day (Sundays excepted)
-<pb n="6" facs="tcp:031851_0006_0FEF213532EA2E00"/>
+<pb n="6" facs="unknown:031851_0006_0FEF213532EA2E00"/>
 between the hours of 12 and 2 P. M. to ſee if any perſons are there waiting for me<g ref="char:EOLhyphen"/>d<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>cal advice, and to be inform'd what new <gap reason="illegible" resp="#PDCC" extent="1 word">
@@ -265,7 +265,7 @@ between the hours of 12 and 2 P. M. to ſee if any perſons are there waiting fo
                      <desc>•</desc>
                   </gap>f the Diſpenſary, who is not recom<g ref="char:EOLhyphen"/>mended be a contributor, agreeably to the adopted printed form.</p>
                <p>
-                  <pb n="7" facs="tcp:031851_0007_0FEF213B1DC5B058"/>
+                  <pb n="7" facs="unknown:031851_0007_0FEF213B1DC5B058"/>
                   <hi>Second.</hi> When any perſon brings or ſends a recommendation as aforeſaid, the Apothe<g ref="char:EOLhyphen"/>cary ſhall ſeparate ſaid recommendation from the rules to be obſerved by the pa<g ref="char:EOLhyphen"/>tient; the former he ſhall keep on file, and the latter ſhall be delivered or ſent to the patient.</p>
                <p>
                   <hi>Third.</hi> The Apothecary ſhall keep a fair re<g ref="char:EOLhyphen"/>cord, in a book to be provided for that purpoſe in ſeparate columns, of the names of each patient, the contributor by whom ſaid patient is recommended, the date of the recommendation, the phyſician attend<g ref="char:EOLhyphen"/>ing him or her, the time when diſcharged, and the amount of medicines delivered for his or her uſe, which book ſhall be laid be<g ref="char:EOLhyphen"/>fore the managers at each of their meetings.</p>
@@ -273,7 +273,7 @@ between the hours of 12 and 2 P. M. to ſee if any perſons are there waiting fo
                   <hi>Fourth.</hi> No patient ſhall be furniſhed with any medicines from the Diſpenſary, unleſs from the advice or preſcription of the phy<g ref="char:EOLhyphen"/>ſician of the Diſpenſary, or ſome one of the regular phyſicians belonging to the town of Boſton.</p>
                <p>
                   <hi>Fifth.</hi> No medicines ſhall be delivered to any patient recommended by a contributor, if the ſaid contributor has, previous to ſaid recommendation, his or her aſſigned num<g ref="char:EOLhyphen"/>ber of patients under the care of the Diſ<g ref="char:EOLhyphen"/>penſary, agreeably to the conſtitution; and
-<pb n="8" facs="tcp:031851_0008_0FEF213E29D68A70"/>
+<pb n="8" facs="unknown:031851_0008_0FEF213E29D68A70"/>
 for the Apothecary's information herein, he ſhall be furniſhed by the Treaſurer with an atteſted liſt of the ſubſcribers, and of the ſums reſpectively paid by them.</p>
                <p>
                   <hi>Sixth.</hi> The Apothecary ſhall ſemi-annually report to the Managers the ſtate of his ac<g ref="char:EOLhyphen"/>counts againſt the Diſpenſary, and oftener if thereto required.</p>
@@ -290,7 +290,7 @@ for the Apothecary's information herein, he ſhall be furniſhed by the Treaſur
                </div>
             </div>
             <div type="lists">
-               <pb n="9" facs="tcp:031851_0009_0FEF210A170A48F0"/>
+               <pb n="9" facs="unknown:031851_0009_0FEF210A170A48F0"/>
                <head>THE following Gentlemen were choſen <hi>MANA<g ref="char:EOLhyphen"/>GERS</hi> of the <hi>Boſton Diſpenſary,</hi> the ſecond <hi>Thurſday</hi> in <hi>January 1797,</hi> to continue in office one year.</head>
                <list>
                   <item>Rev. Samuel Parker, D. D. <hi>Chairman,</hi>
@@ -350,7 +350,7 @@ Subſcribers who have paid <hi>Fifty Dollars,</hi> and have a right to have four
                      </gap>.</item>
                </list>
                <list>
-                  <pb n="10" facs="tcp:031851_0010_0FEF213FB190CC08"/>
+                  <pb n="10" facs="unknown:031851_0010_0FEF213FB190CC08"/>
                   <head>LIST of <hi>CONTRIBUTORS</hi> to the <hi>BOSTON DISPENSARY.</hi>
                   </head>
                   <item>HON. Samuel Adams, <abbr>Eſq</abbr>
@@ -384,7 +384,7 @@ Subſcribers who have paid <hi>Fifty Dollars,</hi> and have a right to have four
                   <item>Mr. Joſeph Callender, jun.</item>
                   <item>Mr. Gardner L. Chandler,</item>
                   <item>
-                     <pb n="11" facs="tcp:031851_0011_0FEF2141463CF838"/>Mrs. Mary Coffin,</item>
+                     <pb n="11" facs="unknown:031851_0011_0FEF2141463CF838"/>Mrs. Mary Coffin,</item>
                   <item>Mr. Joſeph Coolidge,</item>
                   <item>Mr. James Cutler,</item>
                   <item>Mr. George Deblois,</item>
@@ -413,7 +413,7 @@ Subſcribers who have paid <hi>Fifty Dollars,</hi> and have a right to have four
                   </item>
                   <item>Mr. Stephen Higginſon, jun.</item>
                   <item>
-                     <pb n="12" facs="tcp:031851_0012_0FEF2142C99406C0"/>Mr. Oliver Holden,</item>
+                     <pb n="12" facs="unknown:031851_0012_0FEF2142C99406C0"/>Mr. Oliver Holden,</item>
                   <item>Mrs. Abigail Howard,</item>
                   <item>Mr. Jonathan Hunnewell,</item>
                   <item>Henry Jackſon, <abbr>Eſq</abbr>
@@ -441,7 +441,7 @@ Subſcribers who have paid <hi>Fifty Dollars,</hi> and have a right to have four
                   <item>Miſs Sarah Payne,</item>
                   <item>Mr. David Peirce,</item>
                   <item>
-                     <pb n="13" facs="tcp:031851_0013_0FEF211859F2CE98"/>Mr. Levi Peirce,</item>
+                     <pb n="13" facs="unknown:031851_0013_0FEF211859F2CE98"/>Mr. Levi Peirce,</item>
                   <item>Mr. Samuel Penhallow,</item>
                   <item>Mr. Thomas H. Perkins, 10 <hi>Dollars.</hi>
                   </item>
@@ -474,7 +474,7 @@ Subſcribers who have paid <hi>Fifty Dollars,</hi> and have a right to have four
                   </item>
                   <item>Mr. Edward Tuckerman,</item>
                   <item>
-                     <pb n="14" facs="tcp:031851_0014_0FEF21490DC11288"/>Charles Vaughan, <abbr>Eſq</abbr>
+                     <pb n="14" facs="unknown:031851_0014_0FEF21490DC11288"/>Charles Vaughan, <abbr>Eſq</abbr>
                   </item>
                   <item>Mr. James Vila,</item>
                   <item>Mr. Henry Wainwright,</item>
